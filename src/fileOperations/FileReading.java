@@ -16,7 +16,7 @@ public class FileReading {
 		}
 	}
 	
-	public void ReadLineByLine()
+	public void readLineByLine()
 	{
 		String str=null;
 		try {
